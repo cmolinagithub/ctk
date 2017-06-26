@@ -1,0 +1,32 @@
+<html>
+	<body>
+		<div align="center">
+			<img src="cid:datojava.png"/>              
+		</div>
+		<div align="center">
+			<font face="Candara" size="6">					
+				Estimado Cliente, le informamos que su compra
+				<br>
+				se realizo con exito. 
+				<br>
+				<br>
+				Puede retirar su compra de lunes a viernes
+				<br>
+				en horario corrido de 9:00am a 7:00pm.
+			</font>
+		</div>
+		<div align="center">
+			<font face="Candara" size="6">
+				<a href="url">www.datojava.blogspot.com</a>
+				<br>
+				<br>
+				<img src="https://drive.google.com/file/d/0B04oaEauyu-GTkYtTlhLQVBOa2s/view?usp=sharing"/>&nbsp;&nbsp;+DatoJavaBlog
+				<br>
+				<br>
+				<img src="https://drive.google.com/file/d/0B04oaEauyu-GTkYtTlhLQVBOa2s/view?usp=sharing"/>
+				<br>
+                ....Tutorial JavaMail. DatoJava....
+			</font>
+		</div>						
+	</body>
+</html>
